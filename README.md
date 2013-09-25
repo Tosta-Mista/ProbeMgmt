@@ -22,12 +22,7 @@ To get temp :
 -------------
 	check_temp.sh [ProbeID] [Warning_Threeshold] [Critical_Threeshold] [Bus_IP]
 	check_temp.py [ProbeID] [Warning_Threeshold] [Critical_Threeshold] [Bus_IP]
-<dl>
-  <dt>Lower cost</dt>
-  <dd>The new version of this product costs significantly less than the previous one!</dd>
-  <dt>Easier to use</dt>
-  <dd>We've changed the product so that it's much easier to use!</dd>
-</dl>	
+
 <dl>
 <dt>Normal output :</dt>
 	<dd>"[OK] Temperature: "42"°C | Temperature="42"°C State=Normal"</dd>
