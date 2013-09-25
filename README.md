@@ -12,11 +12,13 @@ Usage
 To get id :
 -----------
 	check_id.sh [bus_ip]
-	
-output :
-	1 A34325DSDHHDE4
+
+<dl>
+<dt>output :</dt>
+</dl>	1 A34325DSDHHDE4
 	2 AAF432AE543243
 	...
+	
 	
 To get temp :
 -------------
