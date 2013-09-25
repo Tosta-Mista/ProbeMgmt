@@ -5,19 +5,19 @@ Probe script used by nagios to get temperatures and id.
 
 Usage
 =====
-check_id.sh
-check_temp.sh
-check_temp.py
+*check_id.sh
+*check_temp.sh
+*check_temp.py
 
 To get id :
 -----------
 	check_id.sh [bus_ip]
 	
 output : 
-1 A34325DSDHHDE4
-2 AAF432AE543243
-...
-
+	1 A34325DSDHHDE4
+	2 AAF432AE543243
+	...
+	
 To get temp :
 -------------
 	check_temp.sh [ProbeID] [Warning_Threeshold] [Critical_Threeshold] [Bus_IP]
