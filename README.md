@@ -19,7 +19,7 @@ To get id :
 	2 AAF432AE543243
 	...
 	
-	
+
 To get temp :
 -------------
 	check_temp.sh [ProbeID] [Warning_Threeshold] [Critical_Threeshold] [Bus_IP]
