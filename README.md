@@ -15,7 +15,8 @@ To get id :
 
 <dl>
 <dt>output :</dt>
-</dl>	1 A34325DSDHHDE4
+</dl>	
+	1 A34325DSDHHDE4
 	2 AAF432AE543243
 	...
 	
